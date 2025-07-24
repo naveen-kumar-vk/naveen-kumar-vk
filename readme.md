@@ -20,6 +20,6 @@ Web Developer @ Vettri Technologies
 ### 💻 Workspace Spec
  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-naveenkumar-v&theme=dark&show_icons=true&&hide=issues,contribs)
+![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveen-kumar-vk&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Naveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-naveenkumar-v&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Naveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naveen-kumar-vk&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
